@@ -45,3 +45,13 @@ Install
 `make install`
 
 
+---
+
+Reference multiple clouds 
+
+- Chapter 1 - Introduction to MLOps - Pratical MLOps book
+
+- [GitHub](https://github.com/noahgift/github-actions-demo/tree/main) and [Youtube](https://www.youtube.com/watch?v=4gbUYOgALik)
+
+
+
